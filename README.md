@@ -1,7 +1,7 @@
-- NOM : 
-- PRÉNOM :
-- URL du site :
-- URL FIGMA :
+- NOM : BUGNET
+- PRÉNOM : Lisa
+- URL du site : lisa-bugnet.fr
+- URL FIGMA : https://www.figma.com/file/nUXODqZK5lzfjPh1tzq4D5/Maquettes-projet-individuel-%E2%80%94-Lisa-BUGNET?node-id=824%3A780&t=IobhkgLuqPm37eBu-1
 
 # Structure de départ pour le projet individuel.
 
